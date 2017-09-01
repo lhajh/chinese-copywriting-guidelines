@@ -1,0 +1,43 @@
+{
+  "name": "chinese-copywriting-guidelines",
+  "version": "0.0.9",
+  "description": "Chinese Copywriting Guidelines",
+  "author": "Tunghsiao Liu",
+  "homepage": "http://github.com/mzlogin/chinese-copywriting-guidelines",
+  "main": "README.md",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mzlogin/chinese-copywriting-guidelines.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mzlogin/chinese-copywriting-guidelines/issues"
+  },
+  "license": "WTFPL",
+  "keywords": [
+    "chinese",
+    "copywriting",
+    "guideline"
+  ],
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0",
+    "grunt-conventional-changelog": "^6.1.0",
+    "grunt-npm": "0.0.2",
+    "matchdep": "^1.0.1"
+  },
+  "contributors": [
+    "Zhuang Ma <chumpma@gmail.com>",
+    "Zhuang Ma <ChumpMa@gmail.com>",
+    "Jason Lee <huacnlee@gmail.com>",
+    "Charlie Jade <summer.alex07@gmail.com>",
+    "Elethom Hunter <elethomhunter@gmail.com>",
+    "Huei Tan <huei90@users.noreply.github.com>",
+    "Yang Li <idealhack@gmail.com>",
+    "tzx <district10@users.noreply.github.com>",
+    "hotoo@users.noreply.github.com>"
+  ]
+}
